@@ -1,8 +1,20 @@
 {
-  "friends": [
+  "products": [
     {
       "id": 0,
-      "name": "Maritza Rios"
+      "name": "Tênis",
+      "price": 43.34,
+      "category": "shoes",
+      "size": [
+        "XS",
+        "S",
+        "XL"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "green"
+      ]
     },
     {
       "id": 1,
