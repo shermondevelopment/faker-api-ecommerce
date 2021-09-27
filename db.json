@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "sapato",
-      "figure": "img/shop/categories/02.jpg",
+      "figure": "dist/img/shop/categories/02.jpg",
       "subcategoria": [
         {
           "id": 1,
@@ -25,7 +25,7 @@
     {
       "id": 2,
       "title": "Aparelhos",
-      "figure": "img/shop/categories/03.jpg",
+      "figure": "dist/img/shop/categories/03.jpg",
       "subcategoria": [
         {
           "id": 1,
@@ -47,7 +47,7 @@
     {
       "id": 3,
       "title": "Acessórios",
-      "figure": "img/shop/categories/05.jpg",
+      "figure": "dist/img/shop/categories/05.jpg",
       "subcategoria": [
         {
           "id": 6,
