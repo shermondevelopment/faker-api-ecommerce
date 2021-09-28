@@ -2,22 +2,26 @@
   "categorias": [
     {
       "id": 1,
-      "title": "sapato",
+      "title": "Sapato",
       "figure": "dist/img/shop/categories/02.jpg",
+      "slug": "sapato",
       "subcategoria": [
         {
           "id": 1,
           "title": "tênis",
+          "slug": "tenis",
           "quantity": 212
         },
         {
           "id": 2,
           "title": "Botas",
+          "slug": "botas",
           "quantity": 122
         },
         {
           "id": 3,
           "title": "Sandálias",
+          "slug": "sandalias",
           "quantity": 122
         }
       ]
@@ -25,21 +29,25 @@
     {
       "id": 2,
       "title": "Aparelhos",
+      "slug": "aparelhos",
       "figure": "dist/img/shop/categories/03.jpg",
       "subcategoria": [
         {
           "id": 1,
           "title": "Smartphones e Tablets",
+          "slug": "smartphone-e-tabletes",
           "quantity": 762
         },
         {
           "id": 4,
           "title": "Fones de ouvido",
+          "slug": "fones-de-ouvido",
           "quantity": 200
         },
         {
           "id": 4,
           "title": "Eletrônicos vestíveis",
+          "slug": "eletronicos-vestiveis",
           "quantity": 123
         }
       ]
@@ -47,21 +55,25 @@
     {
       "id": 3,
       "title": "Acessórios",
+      "slug": "acessorios",
       "figure": "dist/img/shop/categories/05.jpg",
       "subcategoria": [
         {
           "id": 6,
           "title": "Bolsas",
+          "slug": "bolsas",
           "quantity": 23
         },
         {
           "id": 7,
           "title": "Oculos escuros",
+          "slug": "oculos-escuros",
           "quantity": 232
         },
         {
           "id": 7,
           "title": "Relógios",
+          "slug": "relogios"
           "quantity": 876
         }
       ]
