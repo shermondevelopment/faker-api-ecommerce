@@ -23,7 +23,10 @@
       "title": "Blusa",
       "figure": "/dist/img/shop/catalog/02.jpg",
       "price": "253",
-      "star": "3"
+      "star": "3",
+      "category": "blusa",
+      "size": ["P", "M", "G", "PP"],
+      "colors": ["purple", "lightgreen", "yellow", "pink"]
     }
   ]
 }
