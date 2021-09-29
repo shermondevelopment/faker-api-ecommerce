@@ -68,13 +68,13 @@
           "id": 7,
           "title": "Oculos escuros",
           "slug": "oculos-escuros",
-          "quantity": 232
+          "quantity": 232,
         },
         {
           "id": 7,
           "title": "Relógios",
           "slug": "relogios",
-          "quantity": 876
+          "quantity": 876,
         }
       ]
     }
