@@ -1,30 +1,6 @@
 {
   "categorias": [
-    {
-      "id": 1,
-      "title": "Sapato",
-      "figure": "dist/img/shop/categories/02.jpg",
-      "slug": "sapato",
-      "subcategoria": [
-        {
-          "id": 1,
-          "title": "tênis",
-          "slug": "tenis",
-          "quantity": 212
-        },
-        {
-          "id": 2,
-          "title": "Botas",
-          "slug": "botas",
-          "quantity": 122
-        },
-        {
-          "id": 3,
-          "title": "Sandálias",
-          "slug": "sandalias",
-          "quantity": 122
-        }
-      ]
-    },
+    "name",
+    "email"
   ],
 }
