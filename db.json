@@ -107,10 +107,9 @@
       "colors": [
         "red",
         "blue',
-        "green",
-        "orange",
+        "green"
       ],
-      "size": ["XS", "P", "M"],
+      "size": ['X', 'S', 'E'],
     }
   ]
 }
