@@ -103,7 +103,9 @@
       "title": "Blusa",
       "figure": "/dist/img/shop/catalog/02.jpg",
       "price": 921,
-      "star": 3
+      "star": 3,
+      "size": ["8.3", "3.1", "9.2"],
+      "colors": ["red", "blue", "green"]
     }
   ],
 }
