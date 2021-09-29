@@ -78,5 +78,41 @@
         }
       ]
     }
+  ],
+  "products" : [
+    {
+      "id": 2123,
+      "title": "sapato bla bla vbla",
+      "price": 203,
+      "size": ["7.5", "8.0", "2.1"],
+      "star": 4,
+      "category": "sapato"
+    },
+     {
+      "id": 2133,
+      "title": "Tênis Nike",
+      "price": 203,
+      "size": ["7.5", "8.0", "2.1"],
+      "star": 5,
+      "category": "sapato"
+    },
+    {
+      "id": 1283,
+      "title": "Blusa",
+      "price": 921,
+      "star": 3,
+      "colors": [
+        "red",
+        "blue'
+        "green",
+        "orange",
+      ],
+      "size": [
+        "XS",
+        "S",
+        "M",
+        "P"
+      ]
+    }
   ]
 }
