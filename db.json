@@ -1,3 +1,3 @@
 {
-  "products" : ["fhggjh"]
+  "products" : [ { "id": "1", "title": "victor" } ]
 }
