@@ -221,50 +221,6 @@
       "star": 4,
       "category": "sapato",
       "gallery": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"]
-    },
-    {
-      "id": "193192",
-      "title": "Botas",
-      "figure": "/dist/img/shop/catalog/01.jpg",
-      "should": "adidas",
-      "price": 203.23,
-      "size": ["34", "40", "50"],
-      "star": 4,
-      "category": "sapato",
-      "gallery": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"]
-    },
-    {
-      "id": "318223",
-      "title": "Botas",
-      "figure": "/dist/img/shop/catalog/01.jpg",
-      "should": "adidas",
-      "price": 203.23,
-      "size": ["34", "40", "50"],
-      "star": 4,
-      "category": "sapato",
-      "gallery": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"]
-    },
-    {
-      "id": "123411",
-      "title": "Botas",
-      "figure": "/dist/img/shop/catalog/01.jpg",
-      "should": "adidas",
-      "price": 203.23,
-      "size": ["34", "40", "50"],
-      "star": 4,
-      "category": "sapato",
-      "gallery": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"]
-    },
-    {
-      "id": "049532",
-      "title": "Botas",
-      "figure": "/dist/img/shop/catalog/01.jpg",
-      "should": "adidas",
-      "price": 203.23,
-      "size": ["34", "40", "50"],
-      "star": 4,
-      "category": "sapato",
-      "gallery": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUXHGJ0EVBd6srWD18FRHW2RBskDKQ7_sEw&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZ_s8n067-CJDq-BziuudZv83Q2VJdO88jw&usqp=CAU"]
-    } 
+    }
   ]
 }
